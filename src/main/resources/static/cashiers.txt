@@ -1,0 +1,3 @@
+{"name":"MARTINA","balances":{"BGN":{"cashier":"MARTINA","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}},"EUR":{"cashier":"MARTINA","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}}}
+{"name":"PETER","balances":{"BGN":{"cashier":"PETER","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}},"EUR":{"cashier":"PETER","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}}}
+{"name":"LINDA","balances":{"BGN":{"cashier":"LINDA","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}},"EUR":{"cashier":"LINDA","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}}}

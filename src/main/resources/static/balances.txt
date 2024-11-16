@@ -1,0 +1,6 @@
+{"date":"16-11-2024 07:24:07","cashier":"MARTINA","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}}
+{"date":"16-11-2024 07:24:07","cashier":"MARTINA","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}
+{"date":"16-11-2024 07:24:07","cashier":"PETER","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}}
+{"date":"16-11-2024 07:24:07","cashier":"PETER","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}
+{"date":"16-11-2024 07:24:07","cashier":"LINDA","currency":"BGN","totalAmount":1000,"denominations":{"FIFTY":10,"TEN":50}}
+{"date":"16-11-2024 07:24:07","cashier":"LINDA","currency":"EUR","totalAmount":2000,"denominations":{"FIFTY":20,"TEN":100}}
